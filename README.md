@@ -1,13 +1,18 @@
-# IldarFIZ.github.io
+# Ildar Z. Farkhutdinov — Portfolio
 
-Bilingual (English/Russian) professional portfolio for Ildar Z. Farkhutdinov.
+Updated production build preserving the original commissioned design, imagery, gradients, carousels, animations and responsive behavior.
 
-## Deploy
+## Updates
 
-Upload the contents of this folder to the root of the `IldarFIZ.github.io` repository. In GitHub, select **Settings → Pages → Deploy from a branch → main → /(root)**.
+- corrected the original English/Russian language switch;
+- edited and completed both language versions;
+- updated the professional profile, current Chief Expert role and PhD research;
+- added AI Academy and closed-loop field-management research using the original card system;
+- added an independent visitor counter based on the AI Academy implementation;
+- updated GitHub links to the current `IldarFIZ` account.
 
-The site has no build step or dependencies. Edit `index.html`, `styles.css`, and `script.js`, commit, and GitHub Pages will redeploy automatically.
+## Deployment
 
-## Visitor counter
+This build is configured specifically for the `Portfolio_v.2.0.` repository and the `/Portfolio_v.2.0./` GitHub Pages path. Upload **the contents of this folder** to the repository root. GitHub Pages must deploy the `main` branch from `/(root)`.
 
-The footer uses the same Abacus service pattern as AI Academy, with an independent namespace: `ildar-farkhutdinov/portfolio-visits`.
+This is a compiled production build. No local build step is required.
